@@ -1,0 +1,45 @@
+
+*{
+    font-size: 14px;
+}
+
+ html, body, #root {
+    height: 100%; 
+    margin: 0;
+     background-color: #F5F5F5; 
+}
+
+#root{
+    background-color: #f4f6f9;
+}
+
+body {
+    font-family: var(--font-family);
+}                                        
+
+.nav-sidebar .nav-item > .nav-link .right{
+    top:30%;
+}
+
+aside{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+a.brand-link {
+    min-height: 51px;
+}
+#menu-action{
+    font-size: 2rem;
+    margin-right: 20px;
+}
+
+.p-datepicker table td{
+    padding:0;
+}
+.p-calendar * {
+    font-size: 14px;
+}
+
+#myLogin {
+    font-size: 18px;
+}

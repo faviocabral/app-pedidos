@@ -1,0 +1,64 @@
+
+.btn, .form-control {
+    font-size: 14px;
+}
+
+/*header style*/
+ul > a > *  {
+   /* color: #fff; */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+a > i {
+    font-size: 16px;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+.text-white{
+    color:white;
+}
+
+
+.linea-ticket{
+    margin-top: 3px;
+    border-top: 1px solid gray;
+    margin-bottom: 3px;
+}
+.nro-ticket{
+    margin-bottom: 0px;
+    font-size: 16px;
+    padding: 3px;
+}
+
+.card-body{
+    padding: 5px;
+}
+
+.card-header{
+    padding: 5px;
+    height: 35px;
+}
+.card-footer{
+    padding: 0px;
+    padding-left:  6px;
+    padding-right: 6px;
+    height: 20px;
+    border-bottom-left-radius:  3px;
+    border-bottom-right-radius: 3px;
+}
+    
+.ticket-title{
+    font-size: 20px;
+}
+
+.time-ticket{
+    position: relative;
+    float: right;
+}
+
+h5{
+    margin-bottom: 4px;
+    border-bottom: 1px solid gray;
+}
