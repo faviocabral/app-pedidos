@@ -23,7 +23,7 @@ a > i {
 
 .linea-ticket{
     margin-top: 3px;
-    border-top: 1px solid gray;
+    border-top: 1px solid silver;
     margin-bottom: 3px;
 }
 .nro-ticket{
@@ -58,7 +58,7 @@ a > i {
     float: right;
 }
 
-h5{
+div.card-body h5{
     margin-bottom: 4px;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid silver;
 }

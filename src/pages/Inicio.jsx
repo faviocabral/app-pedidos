@@ -210,10 +210,9 @@ export default function Inicio() {
               </div>
             </div>
 
-
             <div className="col-lg-3 col-6">
-              <div className="card card-danger elevation-1">
-                <div className="card-header">
+              <div className="card elevation-1">
+                <div className="card-header bg-danger">
                   <h3 className="card-title text-bold ticket-title"> MESA 1 </h3>
                   <div className="card-tools">
                     <button type="button" className="btn btn-tool" data-card-widget="maximize"><i className="pi pi-code" />
@@ -235,9 +234,6 @@ export default function Inicio() {
                 </div>
               </div>
             </div>
-
-
-
 
         </div>
      </div>
