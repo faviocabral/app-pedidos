@@ -17,7 +17,7 @@ export default function Login() {
             <div className="card" id="myLogin">
                 <div className="card-body login-card-body">
                 <h3 className="login-box-msg">LOGIN</h3>
-                <form className="was-validated">
+                <form className="was-validated" style={{margin:"20px"}}>
                     <div className="input-group mb-3">
                     <input type="text" formcontrolname="username" id="usuario" className="form-control input1" placeholder="Usuario" required />
                     </div>
